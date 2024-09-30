@@ -1,0 +1,17 @@
+credits
+
+Dataset :- https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling
+Python :-  https://www.python.org/
+scikit-learn :- https://scikit-learn.org/stable/
+numpy :-   https://numpy.org/ 
+Flask :-   https://flask.palletsprojects.com/en/2.3.x/ 
+joblib :-  https://joblib.readthedocs.io/en/latest/ 
+pandas :-  https://pandas.pydata.org/
+sqlite3 :- https://www.sqlite.org/index.html 
+	   https://docs.python.org/3/library/sqlite3.html
+seaborn:- https://seaborn.pydata.org/	
+matplotlib:- https://matplotlib.org/ 
+plotly :- https://plotly.com/graphing-libraries/
+lime :- https://lime-ml.readthedocs.io/en/latest/index.html
+flask_sqlalchemy :- https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/
+werkzeug :- https://werkzeug.palletsprojects.com/en/2.3.x/ 
